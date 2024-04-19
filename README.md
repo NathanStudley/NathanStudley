@@ -1,6 +1,6 @@
 # Hi, I'm Nate
 
-Thanks for coming to check out some of my stuff.
+Thanks for coming to check out some of my work.
 
 <!---
 NathanStudley/NathanStudley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
